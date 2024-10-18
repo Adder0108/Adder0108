@@ -1,4 +1,4 @@
-## Hi there 👋
+Search this profile to find code written/used by ...
 
 <!--
 **Adder0108/Adder0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
